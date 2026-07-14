@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-wfe8qz.venom88hero.online/sitemap.xml
